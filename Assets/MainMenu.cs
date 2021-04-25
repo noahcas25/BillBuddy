@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 { 
-    void Update()
-    {
-        
+
+    public GameObject canvas; 
+
+    public void StartButton() {
+        // canvas.transform.left = 1000;
+        // canvas.transform.right = -1000; 
     }
 }
