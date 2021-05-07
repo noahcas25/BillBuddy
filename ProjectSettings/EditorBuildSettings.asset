@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainHub.unity
     guid: fea7f9c0602f7624385408b11391f312
   - enabled: 1
-    path: Assets/Scenes/SettingPage.unity
+    path: Assets/Scenes/SettingsPage.unity
     guid: 4f28610c63b78b149a9ff96781c2d8c8
+  - enabled: 1
+    path: Assets/Scenes/AddPage.unity
+    guid: 388ba0a28fe7e2e49aee9355b8993441
   m_configObjects: {}

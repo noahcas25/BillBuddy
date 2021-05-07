@@ -12,6 +12,10 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("MainHub");
     }
 
+    public void AddButton() {
+        SceneManager.LoadScene("AddPage");
+    }
+
     public void HomeButton() {
         SceneManager.LoadScene("MainHub");
     }
