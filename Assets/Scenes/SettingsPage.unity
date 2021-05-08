@@ -1532,6 +1532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e34445e917101641b681dac4eb51363, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bill: {fileID: 0}
 --- !u!114 &667115725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1787,7 +1788,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 156, y: 270}
+  m_AnchoredPosition: {x: 156, y: 263}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &854253279
@@ -2386,6 +2387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e34445e917101641b681dac4eb51363, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bill: {fileID: 0}
 --- !u!114 &1107504955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2768,7 +2770,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -99, y: 269}
+  m_AnchoredPosition: {x: -99, y: 227}
   m_SizeDelta: {x: 202.77069, y: 63.66996}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1143497724
@@ -3000,7 +3002,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 244, y: 271.1}
+  m_AnchoredPosition: {x: 259, y: 225}
   m_SizeDelta: {x: 172.06573, y: 63.66996}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1181417018
@@ -3253,7 +3255,7 @@ RectTransform:
   m_GameObject: {fileID: 1291812361}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.0618, y: 1, z: 1}
   m_Children:
   - {fileID: 1120956620}
   - {fileID: 197631360}
@@ -3264,7 +3266,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 16, y: -38}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1360631603

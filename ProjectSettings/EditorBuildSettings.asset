@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AddPage.unity
     guid: 388ba0a28fe7e2e49aee9355b8993441
+  - enabled: 1
+    path: Assets/Scenes/AccountPage.unity
+    guid: 5603636fb2922b444bc54f387f671d91
+  - enabled: 1
+    path: Assets/Scenes/CalendarPage.unity
+    guid: 97c34d6632919de4b9a1f0d3c56d64b9
   m_configObjects: {}
